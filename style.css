@@ -196,3 +196,19 @@ h2{
   color: #24252A;
   text-decoration: none;
 }
+
+.submit-feedback {
+  height: 40px;
+  width: 90px;
+  border-radius: 10px;
+  border: none;
+  background-color : transparent;
+  transition: background-color 0.3s linear;
+
+}
+.submit-feedback a:hover{
+  color: #edf0f1;
+}
+.submit-feedback:hover {
+  background-color: #84B0D2;
+  }
