@@ -202,6 +202,11 @@ h2{
 .submit-feedback:hover {
   background-color: #84B0D2;
   }
+
+.lector{
+  margin: 0 200px;
+  margin-bottom: 200px;
+}
 @media screen and (max-width: 800px){
   h1{
     padding-bottom: 20px 0;
