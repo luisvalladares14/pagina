@@ -233,7 +233,7 @@ button{
 }
 .descarga{
   transform: translateY(-25px);
-  margin-left: 70vw;
+  margin-left: 80em;
   border-radius: 10px;
   border: none;
   background-color : transparent;
